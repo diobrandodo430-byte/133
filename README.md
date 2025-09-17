@@ -16,7 +16,7 @@
 Мы выбрали проект и распределили роли. Наиболее сложной задачей на этапе планирования оказалось четко разграничить модули между разработчиками, чтобы минимизировать будущие конфликты.
 
 ### 2.2. Работа с Git
-*   **Репозиторий:** https://github.com/anna-alpha/python-todo-api
+*   **Репозиторий:** [https://github.com/anna-alpha/python-todo-api](https://github.com/diobrandodo430-byte/133)
 *   **Используемая модель ветвления:** Упрощенный GitFlow (main, develop, feature/*).
 *   **Созданные ветки:**
     *   `feature/add-auth-system` (Борис)
