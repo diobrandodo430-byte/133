@@ -26,10 +26,8 @@ bash
 `git clone https://github.com/your-username/python-todo-api.gitcd python-todo-api`
 
 `pip install -r requirements.txt`
-Запустите:
+Запустите:bash`flask --app app run`
 
-bash
-`flask --app app run`
 API доступно на `http://127.0.0.1:5000`
 
 # 📡 Основные эндпоинты
